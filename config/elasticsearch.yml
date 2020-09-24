@@ -1,0 +1,8 @@
+http:
+  port: 9200
+path:
+  data: /data
+transport:
+  tcp:
+    port: 9300
+
